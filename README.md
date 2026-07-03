@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0845-longest-mountain-in-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1200-minimum-absolute-difference) |
 ## Stack
 |  |
 | ------- |
