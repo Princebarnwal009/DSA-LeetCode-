@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0976-largest-perimeter-triangle) |
