@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0845-longest-mountain-in-array) |
+| [0904-fruit-into-baskets](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0904-fruit-into-baskets) |
 | [0976-largest-perimeter-triangle](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0986-interval-list-intersections) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0001-two-sum) |
+| [0904-fruit-into-baskets](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## String
