@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0713-subarray-product-less-than-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0713-subarray-product-less-than-k) |
 | [0845-longest-mountain-in-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0845-longest-mountain-in-array) |
 | [0904-fruit-into-baskets](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0904-fruit-into-baskets) |
 | [0976-largest-perimeter-triangle](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0976-largest-perimeter-triangle) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -121,11 +123,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
