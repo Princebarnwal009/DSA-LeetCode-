@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0560-subarray-sum-equals-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
