@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0724-find-pivot-index) |
 | [0845-longest-mountain-in-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0845-longest-mountain-in-array) |
 | [0904-fruit-into-baskets](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0986-interval-list-intersections) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
