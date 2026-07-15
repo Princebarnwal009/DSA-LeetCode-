@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0435-non-overlapping-intervals) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0435-non-overlapping-intervals) |
 | [0845-longest-mountain-in-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0845-longest-mountain-in-array) |
 ## Enumeration
