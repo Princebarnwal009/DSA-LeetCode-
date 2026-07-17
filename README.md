@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0976-largest-perimeter-triangle) |
 ## Counting Sort
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
