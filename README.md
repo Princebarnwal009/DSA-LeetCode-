@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1200-minimum-absolute-difference) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Prefix Sum
 |  |
 | ------- |
