@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0560-subarray-sum-equals-k) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0561-array-partition) |
 ## Sliding Window
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0392-is-subsequence) |
 | [1332-remove-palindromic-subsequences](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1332-remove-palindromic-subsequences) |
