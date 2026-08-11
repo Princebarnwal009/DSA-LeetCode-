@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0392-is-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0845-longest-mountain-in-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0977-squares-of-a-sorted-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0435-non-overlapping-intervals) |
 | [0845-longest-mountain-in-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0845-longest-mountain-in-array) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0392-is-subsequence) |
 | [1332-remove-palindromic-subsequences](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1332-remove-palindromic-subsequences) |
 ## Sweep Line
 |  |
