@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0986-interval-list-intersections) |
+| [1332-remove-palindromic-subsequences](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1332-remove-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [1332-remove-palindromic-subsequences](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1332-remove-palindromic-subsequences) |
 ## Sweep Line
 |  |
 | ------- |
