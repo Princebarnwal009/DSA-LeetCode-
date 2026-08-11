@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Prefix Sum
 |  |
 | ------- |
