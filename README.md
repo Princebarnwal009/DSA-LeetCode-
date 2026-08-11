@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0392-is-subsequence) |
+| [0771-jewels-and-stones](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0771-jewels-and-stones) |
 | [1332-remove-palindromic-subsequences](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1332-remove-palindromic-subsequences) |
 ## Sweep Line
 |  |
