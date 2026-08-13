@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## String
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0771-jewels-and-stones) |
 | [1332-remove-palindromic-subsequences](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1332-remove-palindromic-subsequences) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sweep Line
 |  |
 | ------- |
