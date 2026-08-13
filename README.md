@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0075-sort-colors) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0088-merge-sorted-array) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0179-largest-number) |
