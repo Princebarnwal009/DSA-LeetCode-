@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0383-ransom-note) |
