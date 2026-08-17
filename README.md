@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0008-string-to-integer-atoi) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0076-minimum-window-substring) |
