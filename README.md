@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0845-longest-mountain-in-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0977-squares-of-a-sorted-array) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0771-jewels-and-stones) |
 | [1332-remove-palindromic-subsequences](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1332-remove-palindromic-subsequences) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
