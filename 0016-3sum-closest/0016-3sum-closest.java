@@ -1,27 +1,27 @@
 class Solution {
-    public int threeSumClosest(int[] arr, int target) {
-        Arrays.sort(arr);
-        int ans = arr[0]+arr[1]+arr[2];
-        for(int i = 0; i<arr.length-2; i++){
+    public int threeSumClosest(int[] nums, int target) {
+        Arrays.sort(nums);
+        int ans = nums[0]+nums[1]+nums[2];
+        for(int i=0; i< nums.length-2; i++){
             int j = i+1;
-            int k = arr.length-1;
-            while(j<k){
-                int sum =  arr[i]+arr[j]+arr[k];
-                if(Math.abs(ans-target) > Math.abs(sum-target)){
-                    ans = sum;
+            int k =  nums.length-1;
+            while(j < k){
+                int sum = nums[i]+nums[j]+nums[k];
+                if(Math.abs(ans-target) > Math.abs(sum - target)){
+                    ans  = sum;
                 }
-                
-                if(sum == target){
+
+                else if(sum ==  target ){
                     return sum;
                 }
-                if(sum<target){
+                else if(sum <  target){
                     j++;
                 }
-                else{
+                else {
                     k--;
                 }
             }
         }
-        return ans;
-    }
+            return ans;
+        }
 }
