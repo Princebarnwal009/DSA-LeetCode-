@@ -246,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Princebarnwal009/DSA-LeetCode-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
