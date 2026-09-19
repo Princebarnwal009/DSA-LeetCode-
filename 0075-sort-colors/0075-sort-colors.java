@@ -1,8 +1,10 @@
+import java.util.Arrays;
+
 class Solution {
     public void sortColors(int[] nums) {
-        int low = 0;          // boundary for 0s
-        int mid = 0;          // current index
-        int high = nums.length - 1; // boundary for 2s
+        int low = 0;              // boundary for 0s
+        int mid = 0;              // current index
+        int high = nums.length-1; // boundary for 2s
 
         while (mid <= high) {
             if (nums[mid] == 0) {
@@ -22,5 +24,12 @@ class Solution {
                 high--;
             }
         }
+
+        System.out.println(Arrays.toString(nums));
+    }
+
+    public static void main(String[] args) {
+        int[] nums = {2,0,2,1,1,0};
+        new Solution().sortColors(nums);
     }
 }
